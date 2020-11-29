@@ -7,5 +7,5 @@ Go curve utility
 - Bezier
 
 ```
-go get git.atilo.sh/atilo/curvy
+go get github.com/Atilogit/curvy
 ```
